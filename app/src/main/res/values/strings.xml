@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoomChatbot</string>
+    <string name="add">Añadir frase</string>
+    <string name="modify">Modificar frase</string>
+    <string name="delete">Borrar frase</string>
+    <string name="chat">Chat con la máquina</string>
+    <string name="fraseAdd">Frase añadida</string>
+    <string name="fraseNoAdd">La frase introducida ya existe</string>
+    <string name="btmodify">Modificar</string>
+    <string name="select">Pulsa la frase a modificar</string>
+    <string name="noEmpty">No puede haber campos vacíos</string>
+    <string name="modifyFrase">Frase modificada</string>
+    <string name="randomFrase">Frase aleatoria</string>
+    <string name="noFrases">No hay ninguna frase</string>
+    <string name="nameFrase">Nombre de la frase</string>
+</resources>
